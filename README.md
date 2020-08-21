@@ -1,1 +1,2 @@
 # ColorGen
+Simple color generator :)
