@@ -1,0 +1,2 @@
+# ColorGen
+Simple color generator :)
